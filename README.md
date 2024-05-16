@@ -2,7 +2,7 @@
 
 Meu nome é Julia Flausino
 
-- Estou estudando na [Alura]_
+- Estou estudando na [Alura]_(https://www.alura.com.br).
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
